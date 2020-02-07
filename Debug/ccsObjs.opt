@@ -1,0 +1,1 @@
+"./Robo_WC_2017.obj" "../lnk_msp430g2452.cmd" -llibc.a 
